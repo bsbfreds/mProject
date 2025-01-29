@@ -1,2 +1,2 @@
 #!/bin/bash
-pm2 kill
+/usr/local/bin/pm2 kill
