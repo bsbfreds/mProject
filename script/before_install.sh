@@ -13,9 +13,11 @@ yum install ncdu
 
 node -v | grep v8
 
-rpm install -g pm2
+sudo npm install -g pm2
 
-pm2 update
+#rpm install -g pm2
+
+sudo pm2 update
 
 export app_root=/usr/cddemo
 
