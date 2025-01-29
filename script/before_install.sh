@@ -13,7 +13,7 @@ yum install ncdu
 
 node -v | grep v8
 
-npm install -g pm2
+rpm install -g pm2
 
 pm2 update
 
