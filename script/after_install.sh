@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /usr/cddemo
-npm i
+sudo yum install -y npm
